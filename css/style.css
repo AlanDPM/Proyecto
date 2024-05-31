@@ -109,7 +109,7 @@ header {
     opacity: 0.8;
 }
 
-/*Responsive design*/
+/*Responsivo*/
 
 @media screen and (max-width: 1220px){
     .header-content{
@@ -177,7 +177,7 @@ header {
         display: flex;
     }
 }
-/*Description*/
+/*Descripcion*/
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,600&display=swap');
 
 * {
@@ -235,7 +235,7 @@ header {
     font-weight: 300;
 }
 
-/*My hobbies*/
+/*Tarjetas*/
 
 :root{
     --primary:aqua;
